@@ -90,7 +90,7 @@ font-family: 'Open Sans', Sans, Arial;
 /* Larger than phone */
 @media (min-width: 550px) {
   .header {
-    margin-top: 18rem; }
+    margin-top: 6rem; }
   .value-props {
     margin-top: 9rem;
     margin-bottom: 7rem; }
@@ -139,8 +139,8 @@ font-family: 'Open Sans', Sans, Arial;
     margin-bottom: 0; }
   .navbar-link {
     text-transform: uppercase;
-    font-size: 11px;
-    font-weight: 600;
+    font-size: 16px;
+    /*font-weight: 600;*/
     letter-spacing: .2rem;
     margin-right: 35px;
     text-decoration: none;
@@ -210,8 +210,8 @@ font-family: 'Open Sans', Sans, Arial;
     border-bottom: 1px solid #eee;
     text-decoration: none;
     text-transform: uppercase;
-    font-size: 1.0rem;
-    font-weight: 600;
+    font-size: 1.25rem;
+    /*font-weight: 600;*/
     text-align: center;
     letter-spacing: .1rem; }
   .popover-item:first-child .popover-link {
