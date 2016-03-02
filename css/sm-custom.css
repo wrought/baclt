@@ -23,7 +23,7 @@
   text-transform: uppercase;
 }
 .sm-custom a.current {
-  color: #1EAEDB;
+  color: #139326;
 }
 .sm-custom a.disabled {
   color: #bbbbbb;
@@ -174,10 +174,10 @@
     border-radius: 0 !important;
   }
   .sm-custom a:hover, .sm-custom a:focus, .sm-custom a:active, .sm-custom a.highlighted {
-    color: #1EAEDB;
+    color: #139326;
   }
   .sm-custom a.current {
-    color: #1EAEDB;
+    color: #139326;
   }
   .sm-custom a.disabled {
     color: #bbbbbb;
@@ -246,10 +246,10 @@
   }
   .sm-custom ul a:hover, .sm-custom ul a:focus, .sm-custom ul a:active, .sm-custom ul a.highlighted {
     background: #ffffff;
-    color: #1EAEDB;
+    color: #139326;
   }
   .sm-custom ul a.current {
-    color: #1EAEDB;
+    color: #139326;
   }
   .sm-custom ul a.disabled {
     background: white;
@@ -280,10 +280,10 @@
     background: #ffffff;
   }
   .sm-custom span.scroll-up:hover span.scroll-up-arrow, .sm-custom span.scroll-up:hover span.scroll-down-arrow {
-    border-color: transparent transparent #1EAEDB transparent;
+    border-color: transparent transparent #139326 transparent;
   }
   .sm-custom span.scroll-down:hover span.scroll-down-arrow {
-    border-color: #1EAEDB transparent transparent transparent;
+    border-color: #139326 transparent transparent transparent;
   }
   .sm-custom span.scroll-up-arrow, .sm-custom span.scroll-down-arrow {
     position: absolute;

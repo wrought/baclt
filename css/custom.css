@@ -1,9 +1,30 @@
 body {
 font-family: 'Open Sans', Sans, Arial;
+font-size:14pt;
 }
 
 .button {
 font-size: 12pt;
+background-color: #139326;
+border-color: #139326;
+}
+
+.button.button-primary {
+background-color: #139326;
+border-color: #139326;
+}
+
+a:hover.button.button-primary {
+background-color: #1aba32;
+border-color: #1aba32;
+}
+
+a {
+color: #139326;
+}
+
+a:hover {
+color: #1aba32;
 }
 
 .container {
