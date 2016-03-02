@@ -242,7 +242,7 @@
   .sm-custom ul a, .sm-custom ul a:hover, .sm-custom ul a:focus, .sm-custom ul a:active, .sm-custom ul a.highlighted {
     border: 0 !important;
     padding: 10px 20px;
-    color: #555555;
+    color: #222222;
   }
   .sm-custom ul a:hover, .sm-custom ul a:focus, .sm-custom ul a:active, .sm-custom ul a.highlighted {
     background: #ffffff;
